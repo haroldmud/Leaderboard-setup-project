@@ -2,7 +2,7 @@ import _, { remove } from 'lodash';
 // import printMe from './print.js';
 import './style.css';
 
-document.body.innerHTML = `<main><h1>Leaderboard</h1>
+document.body.innerHTML = `<main class= "mainSect"><h1>Leaderboard</h1>
 <section class="contain"><div class="recentBock"><div class="recentScore">
 <h2 class="recentHead">Recent Scores</h2>
 <button class="recentBtn">Refresh</button></div>
