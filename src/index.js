@@ -10,7 +10,7 @@ document.body.innerHTML = `<main><h1>Leaderboard</h1>
 <p class="grey">name:20</p><p>name:50</p><p class="grey">name:20</p>
 <p>name:78</p><p class="grey">name:125</p><p>name:77</p>
 <p class="grey">name:42</p></div></div>
-<div class="AddScore"><h2>Add you score</h2>
+<div class="AddScore"><h2>Add your score</h2>
 <input id="Input" type="text" placeholder="Your name">
 <input id="Input" type="text" placeholder="Your score">
 <input type="submit" value="submit" class="submit"></div></section>
